@@ -35,7 +35,7 @@ ToDoList/
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run this
 
 1. Clone the repository
 
