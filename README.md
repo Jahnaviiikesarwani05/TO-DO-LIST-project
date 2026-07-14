@@ -23,7 +23,7 @@ A simple To-Do List application developed in Java that helps users manage their 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structures
 
 ```
 ToDoList/
