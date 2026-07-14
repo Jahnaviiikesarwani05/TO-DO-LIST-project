@@ -17,7 +17,7 @@ A simple To-Do List application developed in Java that helps users manage their 
 
 ## 🛠️ Technologies Used
 
-- Java
+- JAVA
 - AWT / Swing (depending on your project)
 - Object-Oriented Programming (OOP)
 
