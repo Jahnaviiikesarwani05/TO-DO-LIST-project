@@ -71,15 +71,11 @@ git clone https://github.com/your-username/ToDoList.git
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your application here.)
-
----
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Jahnavi kesarwani**
 
 ---
 
