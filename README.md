@@ -49,8 +49,6 @@ git clone https://github.com/your-username/ToDoList.git
 
 4. Run the main Java file.
 
----
-
 ## 🎯 Objectives
 
 - Manage daily tasks efficiently.
