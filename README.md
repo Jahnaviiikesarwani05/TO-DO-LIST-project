@@ -24,7 +24,6 @@ A simple To-Do List application developed in Java that helps users manage their 
 ---
 
 ## 📂 Project Structures
-
 ```
 ToDoList/
 │── src/
